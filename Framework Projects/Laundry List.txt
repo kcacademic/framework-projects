@@ -1,2 +1,4 @@
 Helidon [https://helidon.io/#/]
 MicroProfile [https://projects.eclipse.org/projects/technology.microprofile]
+Open Liberty [https://openliberty.io/]
+Micro Profile [https://microprofile.io/]
