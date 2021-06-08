@@ -4,7 +4,7 @@
 "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd"> 
 
 <hibernate-mapping>
-	<class name="com.sapient.learning.model.Customer" table="CUSTOMER">
+	<class name="com.kchandrakant.learning.model.Customer" table="CUSTOMER">
 		<id name="customerId" type="int" column="CUSTOMER_ID">
 			<generator class="assigned" />
 		</id>

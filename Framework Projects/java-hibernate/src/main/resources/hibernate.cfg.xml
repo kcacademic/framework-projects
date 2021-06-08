@@ -13,7 +13,7 @@
         <property name="format_sql">true</property>
         <property name="hbm2ddl.auto">update</property>
         
-        <mapping class="com.sapient.learning.model.Customer"/>
+        <mapping class="com.kchandrakant.learning.model.Customer"/>
         <!-- <mapping resource="customer.hbm.xml" /> -->
     </session-factory>
 </hibernate-configuration>

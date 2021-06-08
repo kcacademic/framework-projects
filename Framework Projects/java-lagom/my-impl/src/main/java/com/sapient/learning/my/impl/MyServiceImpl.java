@@ -5,9 +5,9 @@ import java.util.concurrent.ExecutionException;
 
 import javax.inject.Inject;
 
+import com.kchandrakant.learning.custom.api.CustomService;
+import com.kchandrakant.learning.my.api.MyService;
 import com.lightbend.lagom.javadsl.api.ServiceCall;
-import com.sapient.learning.custom.api.CustomService;
-import com.sapient.learning.my.api.MyService;
 
 import akka.NotUsed;
 

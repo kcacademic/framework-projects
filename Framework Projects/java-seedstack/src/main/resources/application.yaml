@@ -8,7 +8,7 @@ application:
   # Unique identifier of the application accross your organization
   id: java-seedstack
   # Make sure all your application base packages are listed below
-  basePackages: [ com.sapient.learning ]
+  basePackages: [ com.kchandrakant.learning ]
 
 security:
   # The security configuration realm uses the 'users' section below (replace it with a more useful realm later)
