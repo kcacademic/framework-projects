@@ -4,7 +4,7 @@ plugins {
   id 'com.github.johnrengelman.shadow' version '5.0.0'
 }
 
-group = 'com.sapient.learning'
+group = 'com.kchandrakant.learning'
 version = '1.0.0-SNAPSHOT'
 
 repositories {
@@ -22,7 +22,7 @@ application {
 
 sourceCompatibility = '1.8'
 
-def mainVerticleName = 'com.sapient.learning.MainVerticle'
+def mainVerticleName = 'com.kchandrakant.learning.MainVerticle'
 def watchForChange = 'src/**/*'
 def doOnChange = './gradlew classes'
 

@@ -1,4 +1,4 @@
-package com.sapient.learning;
+package com.kchandrakant.learning;
 
 import io.micronaut.http.MediaType;
 import io.micronaut.http.annotation.Controller;

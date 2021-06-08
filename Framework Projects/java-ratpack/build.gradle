@@ -17,4 +17,4 @@ dependencies {
   runtime "org.slf4j:slf4j-simple:1.7.25"
 }
 
-mainClassName = "com.sapient.learning.Application"
+mainClassName = "com.kchandrakant.learning.Application"

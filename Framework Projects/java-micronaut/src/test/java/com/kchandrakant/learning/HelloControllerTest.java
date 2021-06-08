@@ -1,4 +1,4 @@
-package com.sapient.learning;
+package com.kchandrakant.learning;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
