@@ -1,4 +1,4 @@
-package com.sapient.learning.my.impl;
+package com.kchandrakant.learning.my.impl;
 
 import com.google.inject.AbstractModule;
 import com.kchandrakant.learning.custom.api.CustomService;
